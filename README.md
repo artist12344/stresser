@@ -1,5 +1,8 @@
 # stresser
 its an ip stresser 
+
+
+
 C import socket
 import time
 from multiprocessing import Process
